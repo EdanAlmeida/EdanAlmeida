@@ -18,6 +18,7 @@
     <img align="center" alt="Rafa-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
     <img align="center" alt="Rafa-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Rafa-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Rafa-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="right" alt="Edan" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/UsmcxQeK7BRBK/giphy.gif?cid=ecf05e47eda32n2me3mztrd8c8u3dyasegqfe0aknc739l0c&rid=giphy.gif&ct=g">
   </div>
   
