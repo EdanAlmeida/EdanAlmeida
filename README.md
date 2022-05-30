@@ -19,7 +19,7 @@
     <img align="center" alt="Rafa-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Rafa-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Rafa-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="right" alt="Edan" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/8hMD9YakVza3452SpN" width="480" height="202" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/regalmovies-force-the-you-must-8hMD9YakVza3452SpN">via GIPHY</a></p>">
+    <img align="right" alt="Edan" height="150" style="border-radius:50px;" src="<iframe src=>
   </div>
   
 ##
