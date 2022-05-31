@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on code learning
 - 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with anything regarding technology and development
 - 📫 How to reach me on email: edluisalmeida@gmail.com 
 - 😄 Pronouns: He/him 
 
