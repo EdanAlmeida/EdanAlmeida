@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 - 🔭 I’m currently working on code learning
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and SQL
 - 📫 How to reach me on email: edluisalmeida@gmail.com 
 - 😄 Pronouns: He/him 
 
