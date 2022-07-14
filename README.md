@@ -20,7 +20,6 @@
     <img align="center" alt="Edan-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Edan-Js" height="30" width="40"   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
           
-    <img align="right" alt="Edan" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-baby-yoda-0.gif">
   
                                                                                 
                                                                                 
