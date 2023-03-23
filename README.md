@@ -1,7 +1,7 @@
 ### Hello World! 👋
 
 - 🔭 I’m currently working on code learning
-- 🌱 I’m currently learning Java and Angular
+- 🌱 I’m currently learning Java, Angular, and Flutter
 - 📫 How to reach me on email: edluisalmeida@gmail.com 
 - 😄 Pronouns: He/him 
 
